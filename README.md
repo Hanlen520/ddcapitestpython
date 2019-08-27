@@ -1,5 +1,7 @@
 # ddcapitestpython    
-YYY接口自动化测试     
+YYY接口自动化测试  
+
+![目录图片](https://github.com/yjlch1016/ddcapitestpython/blob/master/resource/github_img.png)
   
 # 一、数据驱动的思路      
 1、采用requests+unittest+ddt+xlrd+pymysql+BeautifulReport   
